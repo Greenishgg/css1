@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    line-height: 5px;
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-variant: small-caps;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    font-style: italic;
+    text-decoration: none;
+    text-align: center;
+    line-height: 5px;
+    cursor: context-menu;
+}
+h2:hover{
+    color: rgb(255, 0, 0);
+    cursor: context-menu;
+}
+h3{
+    text-align: center;
+    line-height: 5px;
+}
